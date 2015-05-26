@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="background_color">#93FFE8</color>-->
+    <!--<color name="background_color">#FFFFB2</color>-->
+    <color name="background_color">#99CCFF</color>
+    <color name="dark_background_color">#7AA3CC</color>
+    <!--<color name="background_color">#D6ADFF</color>  purple-->
+</resources>
